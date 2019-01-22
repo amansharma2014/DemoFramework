@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 #1.
 s.name               = "YLogging"
 #2.
-s.version            = "1.1.0"
+s.version            = "1.2.0"
 #3.
 s.summary            = "Sort description of 'YLogging' framework"
 #4.
@@ -17,7 +17,7 @@ s.author             = "Ganesh G"
 s.platform           = :ios, "9.0"
 s.swift_version      = '4.2'
 #8.
-s.source             = { :git => "https://github.com/amansharma2014/DemoFramework.git", :tag => "1.1.0" }
+s.source             = { :git => "https://github.com/amansharma2014/DemoFramework.git", :tag => "1.2.0" }
 #10.
 s.source_files       = "YLogging", "YLogging/**/*.{h,m,swift}"
 
